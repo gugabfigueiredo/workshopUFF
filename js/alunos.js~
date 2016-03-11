@@ -5,8 +5,8 @@ var alunos = [
         "mensagem": "Ta legal!"
     },
     {
-        "nome": "Guga B. Figueiredo",
-        "curso": "Ciências da Computação",
-        "mensagem": "Bow before the Master Race"
+        "nome": "Fulando de tal",
+        "curso": "Outra coisas",
+        "mensagem": "Muito show"
     }
 ];
